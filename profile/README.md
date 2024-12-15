@@ -2,7 +2,7 @@
 
 ## 사용한 프레임워크(FrameWork)
 
-- FE : <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/NEXT.JS-000000?style=flat-square&logo=NEXT.JS&logoColor=white"/>
+- FE : <img src="https://img.shields.io/badge/NEXT.JS-000000?style=flat-square&logo=NEXT.JS&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 - BE : <img src="https://img.shields.io/badge/NEST.JS-000000?style=flat-square&logo=NESTJS&logoColor=red"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=MYSQL&logoColor=green"/>
 
 <br />
